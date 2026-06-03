@@ -4,6 +4,8 @@
 
 📢 Telegram-канал о финансах, бизнесе и AI: **[@FindirMoscow](https://t.me/FindirMoscow)**
 
+🌐 Портфолио: [dabman1980.github.io/portfolio](https://dabman1980.github.io/portfolio)
+
 ---
 
 ## 🛠️ Проекты
