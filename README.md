@@ -100,4 +100,4 @@ ChromaDB, Weaviate, Pinecone, эмбеддинги bge-m3, оценка каче
 - Канал о финансах для собственников — [@FindirMoscow](https://t.me/FindirMoscow)
 - Кейсы — [dabman1980.github.io/portfolio](https://dabman1980.github.io/portfolio)
 
-Услуги оказывает Борисюк Дмитрий Владимирович.
+Услуги оказывает Борисюк Дмитрий Александрович.
