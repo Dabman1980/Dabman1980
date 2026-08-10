@@ -69,6 +69,20 @@
 
 ---
 
+## Сертификация
+
+**Anthropic Academy, 2026** — все с проверяемой ссылкой:
+- [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/bjchcetjuk3n)
+- [Claude with the Anthropic API](https://verify.skilljar.com/c/gms4qazzazcc)
+- [Claude Code in Action](https://verify.skilljar.com/c/8mrc9aqarvc5)
+- [Introduction to Model Context Protocol](https://verify.skilljar.com/c/5espj4scsjnh)
+
+Ещё: **CIMA Cert PM** (Certificate in Business Performance Management), 2018 ·
+**Промпт-инжиниринг**, Университет Zerocoder, 2026 · **«Финансовый директор»**, два уровня,
+Мастер CFO, 2025–2026.
+
+---
+
 ## Стек
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
